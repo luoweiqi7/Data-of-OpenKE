@@ -1,0 +1,16 @@
+15
+name 0
+developer 1
+category 2
+appId 3
+pack 4
+size 5
+ageLimit 6
+developerContact 7
+updateContent 8
+updateTime 9
+desc 10
+version 11
+privacyPolicy 12
+shop 13
+recommend 14
